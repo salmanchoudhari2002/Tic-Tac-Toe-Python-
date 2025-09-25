@@ -42,6 +42,10 @@ Rules:
 📌 Example Gameplay
 ------------------
 
+
+📌 Example Gameplay
+------------------
+
 You are X. Computer is O.
 
    |   |   
@@ -57,6 +61,9 @@ Your move (1-9): 5
    | X |   
 -----------
    |   |   
+
+
+
 📄 License
 ------------------
 This project is licensed under the MIT License – see the LICENSE file for details.
