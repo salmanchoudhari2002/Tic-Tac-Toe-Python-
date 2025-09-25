@@ -62,8 +62,4 @@ Your move (1-9): 5
 -----------
    |   |   
 
-
-
-📄 License
 ------------------
-This project is licensed under the MIT License – see the LICENSE file for details.
