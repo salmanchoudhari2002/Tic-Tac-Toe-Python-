@@ -1,90 +1,62 @@
-# Tic-Tac-Toe Game (Python)
+# 🎮 Tic-Tac-Toe Game (Python)
 
-A simple, text-based Tic-Tac-Toe game built in Python. Play against a computer opponent and see if you can win, lose, or draw.
+A simple, text-based Tic-Tac-Toe game built with Python.  
+Play against the computer and test your skills — will you win, lose, or draw?
 
-## ✨ Features
+✨ Features
+------------------
+1. 🤖 Play against a smart AI opponent
+2. 💻 Interactive command-line interface
+3. 🏆 Handles winning, losing, and draw conditions
+4. ✅ User input validation to prevent invalid moves
+🚀 Getting Started
+------------------
 
--   Play against an AI opponent.
--   Interactive command-line interface.
--   Handles winning, losing, and draw conditions.
--   User input validation to prevent errors.
+✅ Prerequisites:
+- Python 3.x installed on your system
 
-## 🚀 Getting Started
+▶️ Run the Game:
 
-### Prerequisites
+1. Clone this repository:
+git clone https://github.com/salmanchoudhari2002/Tic-Tac-Toe-Python-.git
 
--   Python 3.x
+2. Navigate into the project folder:
+cd Tic-Tac-Toe-Python-
 
-### How to Run the Game
+3. Run the game:
+python tic_tac_toe.py
+🎯 How to Play
+------------------
+The game board is numbered like this:
 
-1.  Clone this repository to your local machine:
-    ```bash
-    git clone [https://github.com/salmanchouhan2002/Tic-Tac-Toe-Python.git](https://github.com/salmanchouhan2002/Tic-Tac-Toe-Python.git)
-    ```
-2.  Navigate into the project directory:
-    ```bash
-    cd Tic-Tac-Toe-Python
-    ```
-3.  Run the game from your terminal:
-    ```bash
-    python tic_tac_toe.py
-    ```
+ 1 | 2 | 3
+---+---+---
+ 4 | 5 | 6
+---+---+---
+ 7 | 8 | 9
 
-## 🎮 How to Play
+Rules:
+- Enter a number (1–9) to place your X.
+- The computer plays as O.
+- First to get three in a row (horizontal, vertical, or diagonal) wins!
+📌 Example Gameplay
+------------------
 
-The game board is numbered from 1 to 9, corresponding to each cell on the board.
+You are X. Computer is O.
 
-README.md
+   |   |   
+-----------
+   |   |   
+-----------
+   |   |   
 
-Markdown
+Your move (1-9): 5
 
-# Tic-Tac-Toe Game (Python)
-
-A simple, text-based Tic-Tac-Toe game built in Python. Play against a computer opponent and see if you can win, lose, or draw.
-
-## ✨ Features
-
--   Play against an AI opponent.
--   Interactive command-line interface.
--   Handles winning, losing, and draw conditions.
--   User input validation to prevent errors.
-
-## 🚀 Getting Started
-
-### Prerequisites
-
--   Python 3.x
-
-### How to Run the Game
-
-1.  Clone this repository to your local machine:
-    ```bash
-    git clone  (https://github.com/salmanchoudhari2002/Tic-Tac-Toe-Python-.git)
-    ```
-2.  Navigate into the project directory:
-    ```bash
-    cd Tic-Tac-Toe-Python
-    ```
-3.  Run the game from your terminal:
-    ```bash
-    python tic_tac_toe.py
-    ```
-
-## 🎮 How to Play
-
-The game board is numbered from 1 to 9, corresponding to each cell on the board.
-
-| 1 | 2 | 3 |
-
-| 4 | 5 | 6 |
-
-| 7 | 8 | 9 |
-
-
--   When prompted, enter a number from 1 to 9 to place your "X" on the board.
--   The computer will then make its move as "O".
--   The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins!
-
-## 📄 License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+   |   |   
+-----------
+   | X |   
+-----------
+   |   |   
+📄 License
+------------------
+This project is licensed under the MIT License – see the LICENSE file for details.
