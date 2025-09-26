@@ -46,7 +46,7 @@ Rules:
 📌 Example Gameplay
 ------------------
 
-You are X. Computer is O.
+You are X. Computer is O
 
    |   |   
 -----------
